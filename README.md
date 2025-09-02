@@ -1,1 +1,6 @@
 # PwC-Project-work-using-PowerBI
+In this project I have completed a virtual internship by completing the tasks of making 3 reports for PwC. 
+The first report was based on a data of the Call Centre, where I analyzed the calls centre data based on parameters such as Satisfaction level of the customer, whether the issues were resolved or not, what were the topics on which the issues where arising, employees performace over the period
+The second report was based on customer dataset, where I was required to analyze the mainly the customers churn, their preferences and other parameters such as, their billing methods, payment types, services used by the customers, gender of the customers, etc
+The third and the final report was to create a dashboard for the HR to understand the efficiency of the employees, the diversity of the employees working the company be it gender, country, age or department.
+For all of these reports, I was provided with the dataset in CSV format and I had to load the data in the PowerBI desktop and transform and clean the dataset (using transform funtion in PowerBI desktop) to make it usuable, once the data was cleaned and ready to be used I identified the key parameters and used charts to visually represent the data and derive insights from the data.
